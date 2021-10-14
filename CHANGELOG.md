@@ -1,5 +1,9 @@
 # Changelog - Firth Creative Craft Project Starter
 
+## 1.0.2 - 2021-10-14
+### Changed
+- Updated composer package version number to fix packagist/github issues
+
 ## 1.0.1 - 2021-10-14
 ### Changed
 - Composer project name for updated for consistency 

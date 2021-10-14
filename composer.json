@@ -1,6 +1,6 @@
 { "name": "firthcreative/craft-starter",
   "description": "Firth Creative project starter for Craft CMS",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "type": "project",
   
   "require": {
