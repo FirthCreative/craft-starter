@@ -1,5 +1,9 @@
 # Changelog - Firth Creative Craft Project Starter
 
+## 1.0.1 - 2021-10-14
+### Changed
+- Composer project name for updated for consistency 
+
 ## 1.0.0 - 2021-10-14
 ### Added 
 - Initial repo/package creation including the following:
